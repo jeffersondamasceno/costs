@@ -87,6 +87,39 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "66cc",
+      "name": "meu projeto 3",
+      "budget": "15000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "eaa0",
+      "name": "meu projeto 3",
+      "budget": "15000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "17ad",
+      "name": "meu projeto 3",
+      "budget": "15000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
