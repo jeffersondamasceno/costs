@@ -1,42 +1,6 @@
 {
   "projects": [
     {
-      "id": "b562",
-      "name": "projeto atualizado",
-      "budget": "7000",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 400,
-      "services": [
-        {
-          "name": "Meu novo serviço",
-          "cost": "100",
-          "description": "Faz isso aqui",
-          "id": "7c57bbb4-d091-40af-beb1-793dfa7479ee"
-        },
-        {
-          "name": "Meu novo serviço",
-          "cost": "100",
-          "description": "Faz isso aqui",
-          "id": "7c57bbb4-d091-40af-beb1-793dfa7479ee"
-        },
-        {
-          "name": "Meu novo serviço",
-          "cost": "100",
-          "description": "Faz isso aqui",
-          "id": "7c57bbb4-d091-40af-beb1-793dfa7479ee"
-        },
-        {
-          "name": "Meu novo serviço 2",
-          "cost": "100",
-          "description": "Faz isso aqui",
-          "id": "9423bf4c-d573-42e6-912a-af9ae2edb443"
-        }
-      ]
-    },
-    {
       "id": "693c",
       "name": "Novo Projeto",
       "budget": "900",
@@ -64,6 +28,30 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "c16e",
+      "name": "projeto atualizado",
+      "budget": "7000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 200,
+      "services": [
+        {
+          "name": "Meu novo serviço",
+          "cost": "100",
+          "description": "Faz isso aqui",
+          "id": "13d48b74-6b6a-45a5-8766-039639ef82ba"
+        },
+        {
+          "name": "Meu novo serviço 2",
+          "cost": "100",
+          "description": "Faz isso aqui",
+          "id": "bd682fc5-a3ef-4875-92c8-4296645fa44c"
+        }
+      ]
     }
   ],
   "categories": [
